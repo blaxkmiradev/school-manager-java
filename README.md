@@ -3,4 +3,4 @@
 
 **Quick check:**
 ```bash
-java -version
+javac *.java && java Main
